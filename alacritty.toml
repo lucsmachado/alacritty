@@ -1,0 +1,13 @@
+import = [
+	"~/.config/alacritty/fonts/jetbrainsmono.toml",
+	"~/.config/alacritty/themes/catppuccin.toml",
+]
+live_config_reload = true
+
+[window]
+opacity = 0.95
+
+[window.padding]
+x = 10
+y = 10
+
